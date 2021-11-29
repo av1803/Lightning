@@ -1,7 +1,7 @@
 # Lightning
 
 ## Description
-Lightning is an automated retail checkout system, built using Python, Flask and Selenium, which purchases exclusive products the moment they are stocked
+Lightning is an automated retail checkout system, built using Python, Flask and Selenium, which purchases exclusive products from online stores the moment they are stocked
 
 The system is completely autonomous; the multiple processes all work together by means of a central server
 
