@@ -13,5 +13,6 @@ Some of the processes include:
 * Checking out/Buying items
 
 
+![image](https://user-images.githubusercontent.com/35306464/143794919-fc17425f-1680-428b-a3ac-28abbeaa3258.png)
 
 
