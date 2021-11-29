@@ -13,6 +13,7 @@ Some of the processes include:
 * Checking out/Buying items
 
 
+Buying process waiting on server:
 ![image](https://user-images.githubusercontent.com/35306464/143794937-d661003f-7ad0-4bbc-a43b-30ffc21ab8f0.png)
 
 
