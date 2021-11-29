@@ -27,5 +27,4 @@ Example of a browser scalper:
 
 ![image](https://user-images.githubusercontent.com/35306464/143795058-dd3d4837-7644-4ceb-b358-a546d962ab04.png)
 
-![image](https://user-images.githubusercontent.com/35306464/143795022-83b04cd1-8350-4e36-b1e5-9994f0840080.png)
 
