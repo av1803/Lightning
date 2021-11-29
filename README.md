@@ -10,7 +10,7 @@ Some of the processes include:
 * Social media listening
 * Registration
 * Proxy setup
-* Buying
+* Checking out/Buying items
 
 
 
