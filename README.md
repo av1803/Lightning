@@ -7,7 +7,6 @@ The system is completely autonomous; the multiple processes all work together by
 
 The central server has the ability to initiate the buying process if it detects that an item is in stock
 
-The system is prioprietary as of 2021-11-28
 
 ## Features
 Some of the processes include:
